@@ -1,0 +1,21 @@
+order_id,customer_name,country_code,currency_code,product,quantity,unit_price_usd,order_date
+1001,Aarav Singh,IN,INR,Wireless Mouse,2,15.99,1/15/2025
+1002,Emily Clark,US,USD,Mechanical Keyboard,1,89.99,1/16/2025
+1003,Liam Johnson,GB,GBP,USB-C Hub,3,24.5,1/17/2025
+1004,Sophia Müller,DE,EUR,Webcam HD,1,45,1/18/2025
+1005,Noah Martin,FR,EUR,Laptop Stand,2,32.75,1/19/2025
+1006,Mia Rossi,IT,EUR,Bluetooth Speaker,1,59.99,1/20/2025
+1007,Kenji Sato,JP,JPY,Gaming Headset,1,74.99,1/21/2025
+1008,Chloe Dubois,CA,CAD,Monitor Arm,2,39.99,1/22/2025
+1009,Isabella Silva,BR,BRL,External SSD 1TB,1,109.99,1/23/2025
+1010,Wei Zhang,CN,CNY,Wireless Charger,3,19.99,1/24/2025
+1011,Priya Patel,IN,INR,Laptop Backpack,1,42,1/25/2025
+1012,James Wilson,US,USD,Smartwatch,1,129.99,1/26/2025
+1013,Olivia Brown,GB,GBP,Noise Cancelling Earbuds,2,64.99,1/27/2025
+1014,Lucas Schmidt,DE,EUR,Portable SSD 500GB,1,64.5,1/28/2025
+1015,Emma Bernard,FR,EUR,Mechanical Keyboard,1,89.99,1/29/2025
+1016,Giulia Ferrari,IT,EUR,Wireless Mouse,4,15.99,1/30/2025
+1017,Hiroshi Tanaka,JP,JPY,Laptop Stand,1,32.75,1/31/2025
+1018,Ethan Tremblay,CA,CAD,Webcam HD,2,45,2/1/2025
+1019,,BR,BRL,USB-C Hub,1,24.5,2/2/2025
+1020,Jing Li,CN,CNY,Gaming Headset,2,74.99,2/3/2025
